@@ -1,0 +1,53 @@
+.dropdown-container {
+  border-radius: 12px;
+  background-color: #2b3342;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.select-token {
+  display: flex;
+  gap: 12px;
+}
+
+.dropdown-select {
+  background-color: #252b36;
+  border-radius: 8px;
+  padding: 8px;
+  border: none;
+  color: white;
+  font-weight: 600;
+}
+
+.currency-logo {
+  width: 32px;
+  height: 32px;
+}
+
+.price {
+  color: #717a8c;
+  font-size: 14px;
+  font-weight: 500;
+  margin: 0px;
+}
+
+.amount-input {
+  width: 100%;
+  background-color: #252b36;
+  color: #717a8c;
+  border: none;
+  font-size: 20px;
+  text-align: right;
+  border-radius: 8px;
+  padding: 8px;
+}
+
+.convert-amount {
+  color: #717a8c;
+  font-size: 20px;
+  text-align: right;
+  margin: 0;
+  width: 100%;
+}

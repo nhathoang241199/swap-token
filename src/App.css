@@ -1,0 +1,17 @@
+.container {
+  min-height: 100vh;
+  min-width: 100vw;
+  background: #1B202A;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+#logo {
+  width: 122px;
+  height: 96px;
+  position: absolute;
+  top: 8px;
+  left: 8px;
+}
